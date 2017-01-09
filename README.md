@@ -10,11 +10,12 @@ This website is a matching website that matches foreign students who need transp
 	2. Login to a FTP application (used FileZilla)
 	3. Use a web broweser and navigate to http://172.20.0.215/login/login2.php
 
-## What is used?
+## What was used?
 - PHP
 - MySQLi
 - HTML & CSS
 - Bootstrap
+- Node and Bower Components
 - Javascript
 
 ## Why was this created?
