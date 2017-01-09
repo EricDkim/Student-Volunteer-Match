@@ -1,0 +1,1 @@
+// document.getElementById("student_page").onsubmit = chkPasswords;

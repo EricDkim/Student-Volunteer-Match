@@ -1,0 +1,3 @@
+ADMIN: dkim3@ggc.edu PASSWORD: pass
+STUDENT: stu@gmail.com PASSWORD: pass
+VOLUNTEER: vol@gmail.com PASSWORD: pass
