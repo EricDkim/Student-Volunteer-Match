@@ -5,10 +5,10 @@ This website is a matching website that matches foreign students who need transp
 
 ## How to use?
 
-> These are the following steps to use the website application: 
-	- Login to the GGC VPN
-	- Login to a FTP application (used FileZilla)
-	- Use a web broweser and navigate to http://172.20.0.215/login/login2.php
+- These are the following steps to use the website application: 
+	1. Login to the GGC VPN
+	2. Login to a FTP application (used FileZilla)
+	3. Use a web broweser and navigate to http://172.20.0.215/login/login2.php
 
 ## What is used?
 - PHP
